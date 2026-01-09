@@ -1,8 +1,4 @@
 # Car-Rental-System-Project
-For Make project about (Car Rental System OOP Project)
-بما أنك رفعت المشروع على GitHub، ملف الـ README.md هو واجهة مشروعك؛ هو أول شيء يراه المبرمجون أو مسؤولو التوظيف (Recruiters).
-
-إليك وصف احترافي ومنظم للمشروع يمكنك نسخه ووضعه في ملف README.md الخاص بك:
 
 🚗 Car Rental System (Java)
 A console-based Car Rental System built with Java. This project demonstrates the application of Object-Oriented Programming (OOP) principles, input validation, and clean code practices.
@@ -12,11 +8,11 @@ Complete Rental Logic: Manage car rentals and returns seamlessly.
 
 Input Validation (Regex): Ensures customer names contain only letters and spaces using Regular Expressions.
 
-Error Handling: Uses try-catch blocks to prevent crashes from invalid inputs (e.g., entering letters instead of numbers).
+Error Handling: Uses try-catch blocks to prevent crashes from invalid inputs (entering letters instead of numbers ...).
 
-User Experience (UX): * Formatted table outputs using printf.
+User Experience (UX): Formatted table outputs using printf.
 
-Case-insensitive search (e.g., C001 is the same as c001).
+Case-insensitive search (C001 is the same as c001 ...).
 
 Dynamic listing of all cars with their current status (Available/Rented).
 
@@ -54,3 +50,5 @@ Rental.java: Handles the relationship between a car and a customer.
 CarRentalSystem.java: The core logic that manages the entire process.
 
 Main.java: The entry point of the application.
+
+
